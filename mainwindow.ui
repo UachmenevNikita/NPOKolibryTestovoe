@@ -47,7 +47,7 @@
       <item>
        <widget class="QLineEdit" name="lineEdit_input">
         <property name="text">
-         <string>D:\atest\input_test</string>
+         <string/>
         </property>
         <property name="placeholderText">
          <string>Введите директорию</string>
@@ -166,7 +166,7 @@
       <item>
        <widget class="QLineEdit" name="lineEdit_out">
         <property name="text">
-         <string>D:\atest\output_test</string>
+         <string/>
         </property>
         <property name="placeholderText">
          <string>Введите директорию</string>
